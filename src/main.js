@@ -1,5 +1,5 @@
 // Typing effect for the subtitle
-const text = "Frontend Developer";
+const text = "Full-stack Developer";
 const typingElement = document.getElementById('typing-text');
 let index = 0;
 
